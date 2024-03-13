@@ -2,10 +2,10 @@
 package types
 
 type UserInfoRequest struct {
-	UserId int64 `json:"userId"`
+	UserId int64 `form:"userId"`
 }
 
 type UserInfoResponse struct {
-	UserId   int64  `json:"userId"`
-	Nickname string `json:"nickname"`
+	UserId   int64  `form:"userId"`
+	Nickname string `form:"nickname"`
 }
