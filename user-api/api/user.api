@@ -23,5 +23,17 @@ service user-api {
 	@doc "获取用户信息"
 	@handler userInfo
 	post /user/info (UserInfoRequest) returns (UserInfoResponse)
+
+	@doc "新增用户"
+	@handler addUser
+	post /user/add (UserInfoRequest) returns (UserInfoResponse)
+
+	@doc "删除用户"
+	@handler delUser
+	post /user/del (UserInfoRequest) returns (UserInfoResponse)
+
+	@doc "修改用户"
+	@handler editUser
+	post /user/edit (UserInfoRequest) returns (UserInfoResponse)
 }
 

@@ -5,3 +5,7 @@ Port: 8888
 #定义数据库   #root:root@tcp(127.0.0.1:3306)/gin?charset=utf8mb4&parseTime=True&loc=Local
 DB:
   DataSource: gozero:gozero@tcp(42.194.215.178:3306)/gozero?charset=utf8mb4&parseTime=True&loc=Local
+
+Cache:
+    - Host: 42.194.215.17:6379
+#    Password:
