@@ -1,0 +1,3 @@
+2024-03-15T08:59:54.040+08:00	 info 	[HTTP]  200  -  POST  /api/user/info - 127.0.0.1:1183 - ApiPOST Runtime +https://www.apipost.cn	duration=2.8ms	caller=handler/loghandler.go:147	trace=033506aa99d9ba50129390b7bfb9625e	span=4462a72f81a06206
+2024-03-15T09:00:00.026+08:00	 info 	sql exec: insert into `user` (`nick_name`,`tel`) values ('1', '22299998')	duration=25.2ms	caller=sqlx/stmt.go:274	trace=47c82d87edc8419116c91c3cd87b16d1	span=06bd99a7363523d5
+2024-03-15T09:00:00.110+08:00	 info 	[HTTP]  200  -  POST  /api/user/add - 127.0.0.1:1201 - ApiPOST Runtime +https://www.apipost.cn	duration=578.4ms	caller=handler/loghandler.go:147	trace=47c82d87edc8419116c91c3cd87b16d1	span=5cfefd4e426fc1b5

@@ -7,17 +7,50 @@ info (
 )
 
 type UserInfoRequest {
-	UserId int64 `form:"userId"`
+	Id int64 `form:"id"`
 }
 
 type UserInfoResponse {
-	UserId   int64  `form:"userId"`
-	Nickname string `form:"nickname"`
+	Tel      string `form:"tel"`
+	NickName string `form:"nick_name"`
+}
+
+//添加
+type AddUserRequest {
+	Tel      string `form:"tel"`
+	NickName string `form:"nick_name"`
+}
+
+type AddUserResponse {
+	Id int64 `form:"id"`
+	AddUserRequest
+}
+
+//删除
+type DelUserRequest {
+	Id int64 `form:"id"`
+}
+
+type DelUserResponse {
+	Id int64 `form:"id"`
+}
+
+//修改
+type EditUserRequest {
+	Id       int64  `form:"id"`
+	Tel      string `form:"tel"`
+	NickName string `form:"nick_name"`
+}
+
+type EditUserResponse {
+	Id int64 `form:"id"`
+	EditUserRequest
 }
 
 @server (
-	prefix: /api
-	group:  user
+	prefix:     /api
+	group:      user
+	middleware: TestMiddleware
 )
 service user-api {
 	@doc "获取用户信息"
@@ -26,14 +59,14 @@ service user-api {
 
 	@doc "新增用户"
 	@handler addUser
-	post /user/add (UserInfoRequest) returns (UserInfoResponse)
+	post /user/add (AddUserRequest) returns (AddUserResponse)
 
 	@doc "删除用户"
 	@handler delUser
-	post /user/del (UserInfoRequest) returns (UserInfoResponse)
+	post /user/del (DelUserRequest) returns (DelUserResponse)
 
 	@doc "修改用户"
 	@handler editUser
-	post /user/edit (UserInfoRequest) returns (UserInfoResponse)
+	post /user/edit (EditUserRequest) returns (EditUserResponse)
 }
 

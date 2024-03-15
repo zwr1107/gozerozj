@@ -1,0 +1,13 @@
+2024-03-14T17:57:07.544+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.1Mi, TotalAlloc=2.2Mi, Sys=12.8Mi, NumGC=1	caller=stat/usage.go:61
+2024-03-14T17:57:07.546+08:00	 stat 	dbcache(sqlc) - qpm: 1, hit_ratio: 100.0%, hit: 1, miss: 0, db_fails: 0	caller=cache/cachestat.go:71
+2024-03-14T17:57:07.551+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 3, pass: 3, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:57:11.303+08:00	 stat 	(user-api) - qps: 0.1/s, drops: 0, avg time: 25.3ms, med: 51.1ms, 90th: 51.1ms, 99th: 51.1ms, 99.9th: 51.1ms	caller=stat/metrics.go:210
+2024-03-14T17:58:07.544+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.1Mi, TotalAlloc=2.2Mi, Sys=12.8Mi, NumGC=1	caller=stat/usage.go:61
+2024-03-14T17:58:07.552+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:58:11.301+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T17:59:07.543+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=2.2Mi, Sys=13.2Mi, NumGC=2	caller=stat/usage.go:61
+2024-03-14T17:59:07.550+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:59:11.301+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:00:07.543+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=2.2Mi, Sys=13.2Mi, NumGC=2	caller=stat/usage.go:61
+2024-03-14T18:00:07.549+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:00:11.300+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210

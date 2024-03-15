@@ -40,10 +40,9 @@ type (
 	}
 
 	User struct {
-		Id       int64  `db:"id"`       // 主键id
-		UserId   int64  `db:"user_id"`  // 用户id
-		Nickname string `db:"nickname"` // 昵称
-		Tel      string `db:"tel"`      // 手机
+		Id       int64  `db:"id"`        // 主键id
+		NickName string `db:"nick_name"` // 昵称
+		Tel      string `db:"tel"`       // 手机
 	}
 )
 
@@ -107,11 +106,12 @@ func (m *defaultUserModel) FindOneByTel(ctx context.Context, tel string) (*User,
 }
 
 func (m *defaultUserModel) Insert(ctx context.Context, data *User) (sql.Result, error) {
+	fmt.Println(data)
 	gozeroUserIdKey := fmt.Sprintf("%s%v", cacheGozeroUserIdPrefix, data.Id)
 	gozeroUserTelKey := fmt.Sprintf("%s%v", cacheGozeroUserTelPrefix, data.Tel)
 	ret, err := m.ExecCtx(ctx, func(ctx context.Context, conn sqlx.SqlConn) (result sql.Result, err error) {
-		query := fmt.Sprintf("insert into %s (%s) values (?, ?, ?)", m.table, userRowsExpectAutoSet)
-		return conn.ExecCtx(ctx, query, data.UserId, data.Nickname, data.Tel)
+		query := fmt.Sprintf("insert into %s (%s) values (?, ?)", m.table, userRowsExpectAutoSet)
+		return conn.ExecCtx(ctx, query, data.NickName, data.Tel)
 	}, gozeroUserIdKey, gozeroUserTelKey)
 	return ret, err
 }
@@ -126,7 +126,7 @@ func (m *defaultUserModel) Update(ctx context.Context, newData *User) error {
 	gozeroUserTelKey := fmt.Sprintf("%s%v", cacheGozeroUserTelPrefix, data.Tel)
 	_, err = m.ExecCtx(ctx, func(ctx context.Context, conn sqlx.SqlConn) (result sql.Result, err error) {
 		query := fmt.Sprintf("update %s set %s where `id` = ?", m.table, userRowsWithPlaceHolder)
-		return conn.ExecCtx(ctx, query, newData.UserId, newData.Nickname, newData.Tel, newData.Id)
+		return conn.ExecCtx(ctx, query, newData.NickName, newData.Tel, newData.Id)
 	}, gozeroUserIdKey, gozeroUserTelKey)
 	return err
 }

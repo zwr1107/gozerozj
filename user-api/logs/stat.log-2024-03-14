@@ -1,0 +1,1165 @@
+2024-03-14T17:12:20.449+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:12:20.455+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:13:20.450+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:13:20.455+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:14:20.449+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:14:20.457+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:15:20.449+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:15:20.455+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:16:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:16:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:17:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:17:20.455+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:18:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:18:20.455+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:19:20.449+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:19:20.455+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:20:20.449+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:20:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:21:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:21:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:22:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:22:20.455+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:23:20.449+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:23:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:24:20.449+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:24:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:25:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:25:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:26:20.447+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:26:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:27:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:27:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:28:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:28:20.453+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:29:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:29:20.453+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:30:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:30:20.453+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:31:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:31:20.454+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:32:20.448+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:32:20.452+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:33:20.446+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:33:20.452+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:34:20.446+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:34:20.453+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:35:20.446+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:35:20.452+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:36:20.446+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:36:20.453+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:37:20.446+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:37:20.452+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:38:20.446+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:38:20.451+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:39:20.445+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:39:20.451+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:40:20.445+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:40:20.451+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:41:20.445+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:41:20.451+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:42:20.445+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:42:20.452+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:43:20.446+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:43:20.451+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:44:20.445+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:44:20.451+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:45:20.445+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.0Mi, TotalAlloc=2.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:45:20.451+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:46:45.568+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:46:45.571+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:47:45.569+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:47:45.571+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:48:45.569+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:48:45.571+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:49:45.569+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:49:45.571+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:50:45.569+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:50:45.571+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:51:45.569+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:51:45.570+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:52:45.569+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:52:45.571+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:53:45.567+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.9Mi, TotalAlloc=1.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:53:45.571+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:54:45.568+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.8Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T17:54:45.568+08:00	 stat 	dbcache(sqlc) - qpm: 1, hit_ratio: 100.0%, hit: 1, miss: 0, db_fails: 0	caller=cache/cachestat.go:71
+2024-03-14T17:54:45.570+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 1, pass: 1, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T17:55:05.374+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 3.0ms, med: 3.3ms, 90th: 3.3ms, 99th: 3.3ms, 99.9th: 3.3ms	caller=stat/metrics.go:210
+2024-03-14T18:01:56.156+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:01:56.156+08:00	 stat 	dbcache(sqlc) - qpm: 1, hit_ratio: 100.0%, hit: 1, miss: 0, db_fails: 0	caller=cache/cachestat.go:71
+2024-03-14T18:01:56.158+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 1, pass: 1, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:02:06.274+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 2.0ms, med: 2.7ms, 90th: 2.7ms, 99th: 2.7ms, 99.9th: 2.7ms	caller=stat/metrics.go:210
+2024-03-14T18:02:56.156+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:02:56.158+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:03:06.274+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:03:56.153+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:03:56.156+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:04:06.273+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:04:56.153+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:04:56.156+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:05:06.271+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:05:56.153+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:05:56.155+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:06:06.272+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:06:56.153+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:06:56.155+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:07:06.271+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:07:56.152+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:07:56.155+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:08:06.270+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:08:56.152+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:08:56.154+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:09:06.272+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:09:56.151+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:09:56.154+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:10:06.271+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:10:56.152+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:10:56.154+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:11:06.270+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:11:56.151+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:11:56.153+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:12:06.270+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:12:56.151+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:12:56.153+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:13:06.270+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:13:56.152+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:13:56.153+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:14:06.269+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:14:56.150+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:14:56.153+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:15:06.269+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:15:56.150+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:15:56.153+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:16:06.268+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:16:56.149+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:16:56.153+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:17:06.267+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:17:56.151+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:17:56.152+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:18:06.267+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:18:56.150+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:18:56.152+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:19:06.268+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:19:56.150+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:19:56.152+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:20:06.268+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:20:56.149+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:20:56.151+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:21:06.268+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:21:56.149+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:21:56.151+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:22:06.266+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:22:56.149+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:22:56.151+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:23:06.266+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:23:56.149+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:23:56.151+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:24:06.266+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:24:56.147+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.1Mi, TotalAlloc=2.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:24:56.151+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:25:06.267+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:25:56.147+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:25:56.150+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:26:06.267+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:26:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:26:56.150+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:27:06.265+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:27:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:27:56.150+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:28:06.266+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:28:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:28:56.150+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:29:06.266+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:29:56.147+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:29:56.149+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:30:06.265+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:30:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:30:56.150+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:31:06.266+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:31:56.147+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:31:56.149+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:32:06.264+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:32:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:32:56.148+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:33:06.264+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:33:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:33:56.147+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:34:06.264+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:34:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:34:56.148+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:35:06.263+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:35:56.145+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:35:56.147+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:36:06.265+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:36:56.147+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:36:56.148+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:37:06.265+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:37:56.145+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:37:56.148+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:38:06.264+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:38:56.146+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:38:56.148+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:39:06.264+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:39:56.145+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:39:56.147+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:40:06.264+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:40:56.145+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:40:56.147+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:41:06.264+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:41:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:41:56.147+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:42:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:42:56.145+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:42:56.147+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:43:06.263+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:43:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:43:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:44:06.263+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:44:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:44:56.145+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:45:06.263+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:45:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:45:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:46:06.263+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:46:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:46:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:47:06.263+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:47:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:47:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:48:06.263+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:48:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:48:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:49:06.261+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:49:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:49:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:50:06.261+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:50:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.2Mi, TotalAlloc=2.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:50:56.145+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:51:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:51:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:51:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:52:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:52:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:52:56.145+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:53:06.261+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:53:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:53:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:54:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:54:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:54:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:55:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:55:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:55:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:56:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:56:56.144+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:56:56.145+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:57:06.261+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:57:56.142+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:57:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:58:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:58:56.142+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:58:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T18:59:06.261+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T18:59:56.142+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T18:59:56.144+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:00:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:00:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:00:56.145+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:01:06.262+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:01:56.142+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:01:56.146+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:02:06.260+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:02:56.143+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:02:56.145+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:03:06.260+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:03:56.141+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:03:56.144+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:04:06.261+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:04:56.141+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:04:56.144+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:05:06.260+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:05:56.142+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:05:56.144+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:06:06.260+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:06:56.140+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:06:56.144+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:07:06.259+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:07:56.141+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:07:56.143+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:08:06.259+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:08:56.140+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:08:56.142+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:09:06.258+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:09:56.139+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:09:56.141+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:10:06.258+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:10:56.138+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:10:56.141+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:11:06.258+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:11:56.139+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:11:56.141+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:12:06.257+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:12:56.139+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:12:56.141+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:13:06.257+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:13:56.137+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:13:56.140+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:14:06.256+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:14:56.137+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:14:56.140+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:15:06.256+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:15:56.137+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:15:56.139+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:16:06.256+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:16:56.136+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.3Mi, TotalAlloc=2.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:16:56.138+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:17:06.254+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:17:56.136+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:17:56.138+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:18:06.254+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:18:56.135+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:18:56.139+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:19:06.255+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:19:56.136+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:19:56.137+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:20:06.253+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:20:56.135+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:20:56.137+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:21:06.253+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:21:56.134+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:21:56.138+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:22:06.254+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:22:56.135+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:22:56.137+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:23:06.254+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:23:56.133+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:23:56.137+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:24:06.252+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:24:56.134+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:24:56.136+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:25:06.251+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:25:56.133+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:25:56.136+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:26:06.252+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:26:56.133+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:26:56.136+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:27:06.252+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:27:56.133+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:27:56.136+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:28:06.252+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:28:56.132+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:28:56.135+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:29:06.251+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:29:56.132+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:29:56.134+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:30:06.250+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:30:56.132+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:30:56.135+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:31:06.250+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:31:56.131+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:31:56.135+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:32:06.251+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:32:56.133+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:32:56.135+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:33:06.251+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:33:56.132+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:33:56.134+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:34:06.249+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:34:56.131+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:34:56.134+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:35:06.251+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:35:56.131+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:35:56.134+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:36:06.249+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:36:56.132+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:36:56.134+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:37:06.249+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:37:56.131+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:37:56.133+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:38:06.250+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:38:56.132+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:38:56.134+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:39:06.250+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:39:56.131+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:39:56.133+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:40:06.250+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:40:56.131+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:40:56.133+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:41:06.250+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:41:56.130+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:41:56.133+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:42:06.248+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:42:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.4Mi, TotalAlloc=2.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:42:56.132+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:43:06.249+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:43:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:43:56.133+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:44:06.249+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:44:56.130+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:44:56.132+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:45:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:45:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:45:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:46:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:46:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:46:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:47:06.248+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:47:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:47:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:48:06.248+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:48:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:48:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:49:06.248+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:49:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:49:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:50:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:50:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:50:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:51:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:51:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:51:56.132+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:52:06.248+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:52:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:52:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:53:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:53:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:53:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:54:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:54:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:54:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:55:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:55:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:55:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:56:06.248+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:56:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:56:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:57:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:57:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:57:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:58:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:58:56.129+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:58:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T19:59:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T19:59:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T19:59:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:00:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:00:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:00:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:01:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:01:56.127+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:01:56.131+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:02:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:02:56.127+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:02:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:03:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:03:56.127+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:03:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:04:06.247+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:04:56.128+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:04:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:05:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:05:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:05:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:06:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:06:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:06:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:07:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:07:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.5Mi, TotalAlloc=2.5Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:07:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:08:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:08:56.127+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:08:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:09:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:09:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:09:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:10:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:10:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:10:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:11:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:11:56.127+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:11:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:12:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:12:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:12:56.130+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:13:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:13:56.127+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:13:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:14:06.245+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:14:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:14:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:15:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:15:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:15:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:16:06.246+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:16:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:16:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:17:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:17:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:17:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:18:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:18:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:18:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:19:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:19:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:19:56.129+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:20:06.245+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:20:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:20:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:21:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:21:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:21:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:22:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:22:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:22:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:23:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:23:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:23:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:24:06.245+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:24:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:24:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:25:06.245+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:25:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:25:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:26:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:26:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:26:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:27:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:27:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:27:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:28:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:28:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:28:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:29:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:29:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:29:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:30:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:30:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:30:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:31:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:31:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:31:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:32:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:32:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:32:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:33:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:33:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.6Mi, TotalAlloc=2.6Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:33:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:34:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:34:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:34:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:35:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:35:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:35:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:36:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:36:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:36:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:37:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:37:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:37:56.128+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:38:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:38:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:38:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:39:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:39:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:39:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:40:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:40:56.126+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:40:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:41:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:41:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:41:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:42:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:42:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:42:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:43:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:43:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:43:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:44:06.244+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:44:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:44:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:45:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:45:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:45:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:46:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:46:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:46:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:47:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:47:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:47:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:48:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:48:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:48:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:49:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:49:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:49:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:50:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:50:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:50:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:51:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:51:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:51:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:52:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:52:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:52:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:53:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:53:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:53:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:54:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:54:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:54:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:55:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:55:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:55:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:56:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:56:56.125+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:56:56.127+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:57:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:57:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:57:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:58:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:58:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:58:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T20:59:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T20:59:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.7Mi, TotalAlloc=2.7Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T20:59:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:00:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:00:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:00:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:01:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:01:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:01:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:02:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:02:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:02:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:03:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:03:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:03:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:04:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:04:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:04:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:05:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:05:56.122+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:05:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:06:06.243+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:06:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:06:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:07:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:07:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:07:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:08:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:08:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:08:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:09:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:09:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:09:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:10:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:10:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:10:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:11:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:11:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:11:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:12:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:12:56.122+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:12:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:13:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:13:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:13:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:14:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:14:56.122+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:14:56.124+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:15:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:15:56.123+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:15:56.124+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:16:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:16:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:16:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:17:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:17:56.122+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:17:56.125+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:18:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:18:56.124+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:18:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:19:06.242+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:19:56.122+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:19:56.126+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:20:06.241+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:20:56.122+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:20:56.124+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:21:06.240+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:21:56.121+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:21:56.124+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:22:06.240+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:22:56.119+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:22:56.123+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:23:06.239+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:23:56.119+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:23:56.121+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:24:06.238+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:24:56.118+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.8Mi, TotalAlloc=2.8Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:24:56.120+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:25:06.237+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:25:56.117+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:25:56.120+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:26:06.237+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:26:56.117+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:26:56.119+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:27:06.235+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:27:56.115+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:27:56.119+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:28:06.235+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:28:56.115+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:28:56.117+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:29:06.234+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:29:56.114+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:29:56.117+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:30:06.234+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:30:56.115+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:30:56.117+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:31:06.232+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:31:56.113+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:31:56.115+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:32:06.233+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:32:56.112+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:32:56.115+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:33:06.232+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:33:56.112+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:33:56.115+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:34:06.231+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:34:56.112+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:34:56.114+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:35:06.230+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:35:56.112+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:35:56.114+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:36:06.230+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:36:56.112+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:36:56.113+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:37:06.230+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:37:56.110+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:37:56.112+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:38:06.229+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:38:56.110+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:38:56.112+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:39:06.229+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:39:56.110+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:39:56.112+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:40:06.227+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:40:56.109+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:40:56.111+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:41:06.227+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:41:56.108+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:41:56.110+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:42:06.227+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:42:56.107+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:42:56.109+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:43:06.227+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:43:56.106+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:43:56.110+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:44:06.225+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:44:56.106+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:44:56.110+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:45:06.225+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:45:56.106+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:45:56.108+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:46:06.225+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:46:56.105+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:46:56.109+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:47:06.225+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:47:56.105+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:47:56.107+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:48:06.224+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:48:56.104+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:48:56.106+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:49:06.223+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:49:56.105+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:49:56.107+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:50:06.223+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:50:56.104+08:00	 stat 	CPU: 0m, MEMORY: Alloc=2.9Mi, TotalAlloc=2.9Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:50:56.106+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:51:06.223+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:51:56.104+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:51:56.106+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:52:06.223+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:52:56.103+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:52:56.105+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:53:06.222+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:53:56.102+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:53:56.106+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:54:06.221+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:54:56.102+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:54:56.106+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:55:06.221+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:55:56.103+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:55:56.105+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:56:06.221+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:56:56.103+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:56:56.104+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:57:06.220+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:57:56.103+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:57:56.104+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:58:06.221+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:58:56.101+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:58:56.104+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T21:59:06.221+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T21:59:56.102+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T21:59:56.104+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:00:06.220+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:00:56.101+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:00:56.103+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:01:06.219+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:01:56.102+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:01:56.104+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:02:06.218+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:02:56.100+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:02:56.102+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:03:06.219+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:03:56.101+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:03:56.103+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:04:06.219+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:04:56.099+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:04:56.102+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:05:06.219+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:05:56.099+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:05:56.101+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:06:06.218+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:06:56.099+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:06:56.102+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:07:06.217+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:07:56.099+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:07:56.102+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:08:06.218+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:08:56.098+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:08:56.100+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:09:06.217+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:09:56.099+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:09:56.101+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:10:06.216+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:10:56.098+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:10:56.102+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:11:06.218+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:11:56.098+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:11:56.099+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:12:06.217+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:12:56.097+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:12:56.101+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:13:06.217+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:13:56.097+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:13:56.100+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:14:06.215+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:14:56.099+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:14:56.100+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:15:06.216+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:15:56.098+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:15:56.100+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:16:06.215+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:16:56.098+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.0Mi, TotalAlloc=3.0Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:16:56.100+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:17:06.216+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:17:56.096+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:17:56.098+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:18:06.216+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:18:56.098+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:18:56.099+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:19:06.216+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:19:56.096+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:19:56.099+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:20:06.216+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:20:56.096+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:20:56.100+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:21:06.214+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:21:56.096+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:21:56.099+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:22:06.215+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:22:56.097+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:22:56.099+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:23:06.216+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:23:56.096+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:23:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:24:06.215+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:24:56.097+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:24:56.099+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:25:06.214+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:25:56.096+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:25:56.098+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:26:06.215+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:26:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:26:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:27:06.215+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:27:56.096+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:27:56.098+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:28:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:28:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:28:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:29:06.214+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:29:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:29:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:30:06.214+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:30:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:30:56.098+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:31:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:31:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:31:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:32:06.214+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:32:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:32:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:33:06.214+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:33:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:33:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:34:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:34:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:34:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:35:06.214+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:35:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:35:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:36:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:36:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:36:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:37:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:37:56.095+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:37:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:38:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:38:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:38:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:39:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:39:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:39:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:40:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:40:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:40:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:41:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:41:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.1Mi, TotalAlloc=3.1Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:41:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:42:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:42:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:42:56.097+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:43:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:43:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:43:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:44:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:44:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:44:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:45:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:45:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:45:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:46:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:46:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:46:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:47:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:47:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:47:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:48:06.213+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:48:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:48:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:49:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:49:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:49:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:50:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:50:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:50:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:51:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:51:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:51:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:52:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:52:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:52:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:53:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:53:56.094+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:53:56.096+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:54:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:54:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:54:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:55:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:55:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:55:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:56:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:56:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:56:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:57:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:57:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:57:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:58:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:58:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:58:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T22:59:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T22:59:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T22:59:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:00:06.212+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:00:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:00:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:01:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:01:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:01:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:02:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:02:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:02:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:03:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:03:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:03:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:04:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:04:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:04:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:05:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:05:56.093+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:05:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:06:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:06:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:06:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:07:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:07:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.2Mi, TotalAlloc=3.2Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:07:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:08:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:08:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:08:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:09:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:09:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:09:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:10:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:10:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:10:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:11:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:11:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:11:56.095+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:12:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:12:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:12:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:13:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:13:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:13:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:14:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:14:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:14:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:15:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:15:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:15:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:16:06.209+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:16:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:16:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:17:06.211+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:17:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:17:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:18:06.209+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:18:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:18:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:19:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:19:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:19:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:20:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:20:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:20:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:21:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:21:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:21:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:22:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:22:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:22:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:23:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:23:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:23:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:24:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:24:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:24:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:25:06.208+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:25:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:25:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:26:06.209+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:26:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:26:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:27:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:27:56.092+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:27:56.094+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:28:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:28:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:28:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:29:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:29:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:29:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:30:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:30:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:30:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:31:06.209+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:31:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:31:56.092+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:32:06.209+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:32:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:32:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:33:06.208+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:33:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=3.3Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:33:56.092+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:34:06.210+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:34:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:34:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:35:06.209+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:35:56.091+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:35:56.093+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:36:06.209+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:36:56.089+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:36:56.092+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:37:06.208+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:37:56.090+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:37:56.092+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:38:06.208+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:38:56.087+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:38:56.091+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:39:06.207+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:39:56.087+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:39:56.089+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:40:06.205+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:40:56.086+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:40:56.088+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:41:06.204+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:41:56.085+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:41:56.089+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:42:06.203+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:42:56.084+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:42:56.087+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:43:06.203+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:43:56.083+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:43:56.087+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:44:06.202+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:44:56.083+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:44:56.086+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:45:06.203+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:45:56.082+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:45:56.086+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:46:06.201+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:46:56.082+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:46:56.084+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:47:06.201+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:47:56.082+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:47:56.084+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:48:06.200+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:48:56.080+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:48:56.083+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:49:06.198+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:49:56.080+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:49:56.082+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:50:06.198+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:50:56.080+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:50:56.082+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:51:06.199+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:51:56.079+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:51:56.081+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:52:06.197+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:52:56.078+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:52:56.080+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:53:06.197+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:53:56.078+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:53:56.080+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:54:06.196+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:54:56.077+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:54:56.079+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:55:06.196+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:55:56.077+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:55:56.078+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:56:06.195+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:56:56.076+08:00	 stat 	CPU: 0m, MEMORY: Alloc=3.4Mi, TotalAlloc=3.4Mi, Sys=12.3Mi, NumGC=0	caller=stat/usage.go:61
+2024-03-14T23:56:56.077+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:57:06.195+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:57:56.076+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=3.4Mi, Sys=13.1Mi, NumGC=1	caller=stat/usage.go:61
+2024-03-14T23:57:56.078+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:58:06.193+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:58:56.075+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=3.4Mi, Sys=13.1Mi, NumGC=1	caller=stat/usage.go:61
+2024-03-14T23:58:56.077+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61
+2024-03-14T23:59:06.193+08:00	 stat 	(user-api) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms	caller=stat/metrics.go:210
+2024-03-14T23:59:56.074+08:00	 stat 	CPU: 0m, MEMORY: Alloc=1.0Mi, TotalAlloc=3.5Mi, Sys=13.2Mi, NumGC=2	caller=stat/usage.go:61
+2024-03-14T23:59:56.077+08:00	 stat 	(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0	caller=load/sheddingstat.go:61

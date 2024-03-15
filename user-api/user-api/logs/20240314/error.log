@@ -1,0 +1,3 @@
+2024-03-14T17:56:53.031+08:00	 error 	stmt: insert into `user` (`nick_name`,`tel`) values ('1', '22299'), error: Error 1062 (23000): Duplicate entry '22299' for key 'tel'	caller=sqlx/utils.go:147	trace=9202464f9a2089efd920f3c172d60ca5	span=d2b5f3aaf7856822
+2024-03-14T18:00:30.750+08:00	 error 	stmt: insert into `user` (`nick_name`,`tel`) values ('1', '2229999'), error: Error 1062 (23000): Duplicate entry '2229999' for key 'tel'	caller=sqlx/utils.go:147	trace=e6af6124b336e2c8e63a974aa62a5a95	span=181849a652a26547
+2024-03-14T18:00:32.430+08:00	 error 	stmt: insert into `user` (`nick_name`,`tel`) values ('1', '2229999'), error: Error 1062 (23000): Duplicate entry '2229999' for key 'tel'	caller=sqlx/utils.go:147	trace=fc28f649a1e44c1a7b57150ed9a6ca5b	span=a2e85f33b979b340

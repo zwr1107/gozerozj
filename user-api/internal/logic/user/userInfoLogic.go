@@ -2,7 +2,7 @@ package user
 
 import (
 	"context"
-	"errors"
+
 	"gozerozj/user-api/internal/svc"
 	"gozerozj/user-api/internal/types"
 
@@ -25,15 +25,17 @@ func NewUserInfoLogic(ctx context.Context, svcCtx *svc.ServiceContext) *UserInfo
 
 func (l *UserInfoLogic) UserInfo(req *types.UserInfoRequest) (resp *types.UserInfoResponse, err error) {
 	// todo: add your logic here and delete this line
-	// 获取用户信息
-	user, err := l.svcCtx.UserModel.FindOne(l.ctx, req.UserId)
-	if err != nil {
-		return nil, errors.New("用户不存在")
-	}
-	resp = &types.UserInfoResponse{
-		UserId:   user.UserId,
-		Nickname: user.Nickname,
-	}
 
-	return
+	//获取id
+	Id := req.Id
+	//查询数据库
+	user, err := l.svcCtx.UserModel.FindOne(l.ctx, Id)
+	if err != nil {
+		return nil, err
+	}
+	//返回数据
+	return &types.UserInfoResponse{
+		NickName: user.NickName,
+		Tel:      user.Tel,
+	}, nil
 }

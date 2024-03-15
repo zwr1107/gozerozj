@@ -4,9 +4,13 @@ import (
 	"flag"
 	"fmt"
 
+	"github.com/zeromicro/go-zero/core/logx"
+
 	"gozerozj/user-api/internal/config"
 	"gozerozj/user-api/internal/handler"
 	"gozerozj/user-api/internal/svc"
+
+	"gozerozj/common/middleware"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/rest"
@@ -23,9 +27,12 @@ func main() {
 
 	server := rest.MustNewServer(c.RestConf)
 	defer server.Stop()
+	server.Use(middleware.NewAllMiddleware().Handle)
 
 	ctx := svc.NewServiceContext(c)
 	handler.RegisterHandlers(server, ctx)
+
+	logx.DisableStat()
 
 	fmt.Printf("Starting server at %s:%d...\n", c.Host, c.Port)
 	server.Start()

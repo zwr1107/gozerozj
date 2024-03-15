@@ -23,8 +23,17 @@ func NewDelUserLogic(ctx context.Context, svcCtx *svc.ServiceContext) *DelUserLo
 	}
 }
 
-func (l *DelUserLogic) DelUser(req *types.UserInfoRequest) (resp *types.UserInfoResponse, err error) {
+func (l *DelUserLogic) DelUser(req *types.DelUserRequest) (resp *types.DelUserResponse, err error) {
 	// todo: add your logic here and delete this line
 
+	id := req.Id
+	//查询数据库
+	err = l.svcCtx.UserModel.Delete(l.ctx, id)
+	if err != nil {
+		return nil, err
+	}
+	resp = &types.DelUserResponse{
+		Id: id,
+	}
 	return
 }

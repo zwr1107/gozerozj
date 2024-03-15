@@ -1,2 +1,0 @@
-C:\Users\肥茹\go\pkg\mod\github.com\zeromicro\go-zero@v1.6.3\core\stores\redis\hook.go:11:2: missing go.sum entry for module providing package github.com/redis/go-redis/v9 (imported by github.com/zeromicro/go-zero/core/stores/redis); to add:
-	go get github.com/zeromicro/go-zero/core/stores/redis@v1.6.3

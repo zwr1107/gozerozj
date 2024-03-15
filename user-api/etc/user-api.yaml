@@ -7,5 +7,13 @@ DB:
   DataSource: gozero:gozero@tcp(42.194.215.178:3306)/gozero?charset=utf8mb4&parseTime=True&loc=Local
 
 Cache:
-    - Host: 42.194.215.17:6379
+    - Host: 127.0.0.1:6379
 #    Password:
+
+
+Log:
+  ServiceName: user-api
+  Mode: file
+  Level: info
+  Encoding: plain
+  Rotation: daily
